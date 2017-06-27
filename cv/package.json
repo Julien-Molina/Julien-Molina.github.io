@@ -1,5 +1,6 @@
 {
   "name": "React-Resume-ES6-Webpack",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
