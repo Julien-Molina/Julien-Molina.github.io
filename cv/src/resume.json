@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Julien Molina",
+    "label": "Ingénieur études et développement",
+    "picture": "./profilePhoto.jpg",
+    "email": "julien@molina.pro",
+    "phone": "0673594169",
+    "website": "http://www.molina.pro",
+    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
+    "location": {
+      "address": "304 rue Lecourbe",
+      "postalCode": "75015",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "IDF"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "julienmolina",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "Julien-Molina",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IAG",
+      "position": "Lead Front End Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Birmingham Conservatoire",
+      "area": "Music",
+      "studyType": "Bachelor (hons)",
+      "startDate": "1994-08-01",
+      "endDate": "1998-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "Typescript",
+        "Meteor",
+        "React",
+        "Handlebars",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "Semantic UI",
+        "Material css",
+        "Node",
+        "php",
+        "MySQL",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
