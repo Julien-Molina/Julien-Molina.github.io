@@ -6,7 +6,7 @@
     "email": "julien@molina.pro",
     "phone": "0673594169",
     "website": "http://www.molina.pro",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
+    "summary": "",
     "location": {
       "address": "304 rue Lecourbe",
       "postalCode": "75015",
@@ -29,23 +29,68 @@
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "Lead Front End Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2016-08-01",
+      "company": "XComponent",
+      "position": "Développeur",
+      "website": "http://www.xcomponent.com/",
+      "startDate": "2016-04-01",
       "endDate": "",
-      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "summary": "Développement de XComponent, une solution logicielle permettant de simplifier le développement et la maintenance d'applications basées sur des microservices.",
+      "highlights": []
+    },
+    {
+      "company": "RiskOne",
+      "position": "Développeur",
+      "website": "https://cib.societegenerale.com/",
+      "startDate": "2015-07-01",
+      "endDate": "2016-04-01",
+      "summary": "Développement de RiskOne, le calculateur de risque pour les Dérivés et le Fixed Income (Risque, Var, PnL).",
+      "highlights": []
+    },
+    {
+      "company": "Trafic",
+      "position": "Développeur Front Office",
+      "website": "http://www.natixis.com/",
+      "startDate": "2013-07-01",
+      "endDate": "2015-06-01",
+      "summary": "Développement de Trafic, une suite logicielle permettant de faire de la contribution de bonds sur les marchés, du suivi de position en temps réel, du STP, du passage de Trade et du Reporting.",
+      "highlights": []
+    },
+    {
+      "company": "XComponent",
+      "position": "Développeur",
+      "website": "http://www.xcomponent.com/",
+      "startDate": "2010-02-01",
+      "endDate": "2013-06-01",
+      "summary": "Développement de XComponent, une solution logicielle permettant de gérer le cycle de vie (modélisation, développement, packaging, déploiement, monitoring) de composants fonctionnels conçus sous forme de machines à états.",
+      "highlights": []
+    },
+    {
+      "company": "CHU de Rouen",
+      "position": "Projet INSA Certifié",
+      "website": "http://www.chu-rouen.fr/",
+      "startDate": "2009-02-01",
+      "endDate": "2010-02-01",
+      "summary": "Réalisation d'un PIC dans une équipe de 8 élèves-ingénieurs à mi-temps pendant deux semestres. Certifié ISO9001. Refonte multi-terminologique d’un moteur de recherche médical. Création d’une nouvelle interface et réalisation d’un Web Service pouvant fournir toutes les informations nécessaires au format SKOS suivant des niveaux de privilèges.",
       "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
+      "institution": "INSA de Rouen",
+      "area": "(Architecture des Systèmes d'Information)",
+      "studyType": "Diplome d'Ingénieur",
+      "startDate": "2005",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Lyçèe Desfontaines",
+      "area": "(Sciences de l'ingénieur, option physique)",
+      "studyType": "Baccalauréat Scientifique",
+      "startDate": "2003",
+      "endDate": "2005",
       "gpa": "",
       "courses": []
     }
@@ -54,46 +99,57 @@
   "publications": [],
   "skills": [
     {
-      "name": "Front End Development",
+      "name": "Developpeur",
       "level": "Master",
       "keywords": [
+        "C#",
+        "F#",
+        "SQL",
+        "LINQ",
         "HTML",
         "CSS",
         "Javascript",
-        "ES2015",
-        "jQuery",
+        "ES6",
         "Typescript",
-        "Meteor",
         "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "Bootstrap",
-        "Semantic UI",
-        "Material css",
-        "Node",
-        "php",
-        "MySQL",
+        "Visual Studio",
+        "VS Code",
+        "ReSharper",
+        "Expression Blend",
+        "DotTrace Profiling (memory & performance)",
+        "NCrunch",
+        "SVN",
         "Git",
-        "Jira",
-        "Responsive"
+        "Mercurial",
+        "TFS",
+        "Redmine",
+        "Jenkins",
+        "Sonar",
+        "Balsamiq Mockups",
+        "RabbitMQ",
+        "TibcoRV",
+        ".NET4.7",
+        "WinForms",
+        "WPF",
+        "WCF",
+        "log4net",
+        "NLog",
+        "RhinoMock",
+        "NSubstitute",
+        "SpecFlow"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
     {
-      "name": "Guitar",
-      "keywords": []
+      "language": "Anglais",
+      "fluency": "Courant"
     }
   ],
+  "interests": [],
   "references": []
 }

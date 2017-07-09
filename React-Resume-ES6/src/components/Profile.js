@@ -17,7 +17,7 @@ const Profile = props => {
                     <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[1].username}></a></li>
                   </ul>
                   <div className="divider"></div>
-                  <p>I built this site using <a href="https://github.com/freaksauce/React-Resume-ES6">React Resume</a>.</p>
+                  <p>Ce site à été construit grâce à <a href="https://github.com/freaksauce/React-Resume-ES6">React Resume</a>, qui utilise des composants <a href="https://facebook.github.io/react/">React</a> et <a href="https://jsonresume.org/schema/">JSON Resume Schema</a>.</p>
             </div>
 };
 
