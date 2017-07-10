@@ -99,8 +99,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Developpeur",
-      "level": "Master",
+      "name": "Languages",
       "keywords": [
         "C#",
         "F#",
@@ -111,12 +110,17 @@
         "Javascript",
         "ES6",
         "Typescript",
-        "React",
+        "React"
+      ]
+    },
+        {
+      "name": "Logiciels",
+      "keywords": [
         "Visual Studio",
         "VS Code",
         "ReSharper",
         "Expression Blend",
-        "DotTrace Profiling (memory & performance)",
+        "DotTrace Profiling",
         "NCrunch",
         "SVN",
         "Git",
@@ -127,7 +131,12 @@
         "Sonar",
         "Balsamiq Mockups",
         "RabbitMQ",
-        "TibcoRV",
+        "TibcoRV"
+      ]
+    },
+        {
+      "name": "Framworks",
+      "keywords": [
         ".NET4.7",
         "WinForms",
         "WPF",

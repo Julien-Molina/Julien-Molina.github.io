@@ -3,12 +3,12 @@ import moment from 'moment';
 
 const WorkItem = props => {
     const getWorkDates = () => {
-        const startdate = moment(props.workItemData.startDate).format('MMM, YYYY');
+        const startdate = moment(props.workItemData.startDate).locale('fr').format('MMMM YYYY');
         let enddate = null;
         if (props.workItemData.endDate !== '') {
-          enddate = moment(props.workItemData.endDate).format('MMM, YYYY');
+          enddate = moment(props.workItemData.endDate).locale('fr').format('MMMM YYYY');
         } else {
-          enddate = 'Present';
+          enddate = 'Aujourd\'hui';
         }
 
         return <span className='startdate'>{startdate} - {enddate}</span>
