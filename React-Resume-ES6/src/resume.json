@@ -6,7 +6,7 @@
     "email": "julien@molina.pro",
     "phone": "0673594169",
     "website": "http://www.molina.pro",
-    "summary": "",
+    "summary": "Je suis un développeur full stack passionné, toujours motivé par la découvert de nouveaux langages, frameworks ou métodologies. Je suis également un maker expérimenté, je réalise essentiellement des objets connectés ce qui me permet de combiner mes passions, la création et la programmation.",
     "location": {
       "address": "304 rue Lecourbe",
       "postalCode": "75015",
@@ -86,8 +86,8 @@
       "courses": []
     },
     {
-      "institution": "Lyçèe Desfontaines",
-      "area": "(Sciences de l'ingénieur, option physique)",
+      "institution": "Lycée Joseph Desfontaines",
+      "area": "(Sciences de l'Ingénieur, option physique)",
       "studyType": "Baccalauréat Scientifique",
       "startDate": "2003",
       "endDate": "2005",
